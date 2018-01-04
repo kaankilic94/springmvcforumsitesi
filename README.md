@@ -32,3 +32,9 @@ Kullanıcıların makele yazabildiği, bu makaleleri istediği kategoride payla�
 <a href="https://github.com/kaankilic94/springmvcforumsitesi/blob/master/screenshots/9.png" target="_blank">
 <img src="https://github.com/kaankilic94/springmvcforumsitesi/blob/master/screenshots/9.png" width="200" style="max-width:100%;"></a>
 
+<a href="https://github.com/kaankilic94/springmvcforumsitesi/blob/master/screenshots/10.png" target="_blank">
+<img src="https://github.com/kaankilic94/springmvcforumsitesi/blob/master/screenshots/10.png" width="200" style="max-width:100%;"></a>
+
+<a href="https://github.com/kaankilic94/springmvcforumsitesi/blob/master/screenshots/11.png" target="_blank">
+<img src="https://github.com/kaankilic94/springmvcforumsitesi/blob/master/screenshots/11.png" width="200" style="max-width:100%;"></a>
+
